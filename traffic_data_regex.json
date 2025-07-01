@@ -1,0 +1,6095 @@
+[
+  {
+    "time": "18:25:00",
+    "date": "18 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Slipi",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:24:00",
+    "date": "24 May 2025",
+    "from": "Cempaka Putih",
+    "to": "Simpang Lima Senen",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:16:00",
+    "date": "12 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Monas",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:11:00",
+    "date": "14 Jun 2025",
+    "from": "Cijantung",
+    "to": "Cililitan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:17:00",
+    "date": "17 May 2025",
+    "from": "Caglak",
+    "to": "Tb Simatupang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:00:00",
+    "date": "13 Jun 2025",
+    "from": "Slipi",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "24 May 2025",
+    "from": "Ancol",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:36:00",
+    "date": "18 Jun 2025",
+    "from": "Underpass Tomang",
+    "to": "Ruas Tol Jakarta-Tangerang",
+    "status": "Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:47:00",
+    "date": "01 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Harmoni",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:10:00",
+    "date": "09 Jun 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:28:00",
+    "date": "29 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:06:00",
+    "date": "24 Jun 2025",
+    "from": "Pancoran",
+    "to": "Tendean",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "22 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Cawang",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "22 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Grogol",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:16:00",
+    "date": "12 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Gambir",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:21:00",
+    "date": "28 May 2025",
+    "from": "Sarinah",
+    "to": "Kebon Sirih",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:18:00",
+    "date": "07 Jun 2025",
+    "from": "Jendral Sudirman",
+    "to": "Bundaran Hi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:40:00",
+    "date": "03 Jun 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "22 May 2025",
+    "from": "Grogol",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:22:00",
+    "date": "18 May 2025",
+    "from": "Gerbang Pemuda",
+    "to": "Senayan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:58:00",
+    "date": "15 May 2025",
+    "from": "Semanggi",
+    "to": "Slipi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:55:00",
+    "date": "15 May 2025",
+    "from": "Patung Kuda",
+    "to": "Harmoni",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:20:00",
+    "date": "12 Jun 2025",
+    "from": "Pasar Minggu",
+    "to": "Kalibata",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:05:00",
+    "date": "26 May 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:17:00",
+    "date": "17 May 2025",
+    "from": "Caglak",
+    "to": "Ampera",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:40:00",
+    "date": "24 Jun 2025",
+    "from": "Kalideres",
+    "to": "Cengkareng",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:31:00",
+    "date": "22 Jun 2025",
+    "from": "Bundaran Senayan",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:16:00",
+    "date": "12 Jun 2025",
+    "from": "Monas",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:10:00",
+    "date": "10 Jun 2025",
+    "from": "Monas",
+    "to": "Kebon Sirih",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:22:00",
+    "date": "23 Jun 2025",
+    "from": "Pancoran",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "17 Jun 2025",
+    "from": "Emporium Pluit",
+    "to": "Jembatan Tiga",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:03:00",
+    "date": "31 May 2025",
+    "from": "Moi",
+    "to": "Kelapa Gading",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:06:00",
+    "date": "09 Jun 2025",
+    "from": "Jembatan Lima",
+    "to": "Suryopranoto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:46:00",
+    "date": "14 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Kampung Rambutan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:28:00",
+    "date": "24 May 2025",
+    "from": "Cilincing",
+    "to": "Koja",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:20:00",
+    "date": "12 Jun 2025",
+    "from": "Pancoran",
+    "to": "Kalibata",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "07 Jun 2025",
+    "from": "Perintis",
+    "to": "Rawamangun",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:40:00",
+    "date": "24 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Kalideres",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:21:00",
+    "date": "28 May 2025",
+    "from": "Mh Thamrin",
+    "to": "Sarinah",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "24 May 2025",
+    "from": "Pintu Besi",
+    "to": "Kemayoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:00:00",
+    "date": "19 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Cijantung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:47:00",
+    "date": "01 Jun 2025",
+    "from": "Mh Thamrin",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:17:00",
+    "date": "23 Jun 2025",
+    "from": "Kalibata",
+    "to": "Dewi Sartika",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:22:00",
+    "date": "03 Jun 2025",
+    "from": "Pancoran",
+    "to": "Halim Baru",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:11:00",
+    "date": "09 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "22 May 2025",
+    "from": "Kuningan",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:00:00",
+    "date": "31 May 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:40:00",
+    "date": "01 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Kuningan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:05:00",
+    "date": "24 Jun 2025",
+    "from": "Panjaitan",
+    "to": "Halim Lama",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:05:00",
+    "date": "03 Jun 2025",
+    "from": "Pancoran",
+    "to": "Semanggi",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:29:00",
+    "date": "22 May 2025",
+    "from": "Suryopranoto",
+    "to": "Harmoni",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:48:00",
+    "date": "08 Jun 2025",
+    "from": "Cempaka Putih",
+    "to": "Letjen Suprapto",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:20:00",
+    "date": "15 Jun 2025",
+    "from": "Cempaka Putih",
+    "to": "Letjen Suprapto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:24:00",
+    "date": "29 May 2025",
+    "from": "Pondok Indah",
+    "to": "Cilandak",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:06:00",
+    "date": "09 Jun 2025",
+    "from": "Suryopranoto",
+    "to": "Harmoni",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:15:00",
+    "date": "22 May 2025",
+    "from": "Bandara Soekarno Hatta",
+    "to": "Pluit",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:00:00",
+    "date": "31 May 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:11:00",
+    "date": "03 Jun 2025",
+    "from": "Jembatan Tiga",
+    "to": "Emporium Pluit",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:40:00",
+    "date": "01 Jun 2025",
+    "from": "Kuningan",
+    "to": "Slipi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:57:00",
+    "date": "09 Jun 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Kramat Bunder",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:45:00",
+    "date": "31 May 2025",
+    "from": "Gatot Subroto",
+    "to": "Slipi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:55:00",
+    "date": "17 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:10:00",
+    "date": "24 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Slipi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:37:00",
+    "date": "06 Jun 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:29:00",
+    "date": "22 May 2025",
+    "from": "Harmoni",
+    "to": "Suryopranoto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:29:00",
+    "date": "22 May 2025",
+    "from": "Suryopranoto",
+    "to": "Jembatan Lima",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:10:00",
+    "date": "17 May 2025",
+    "from": "Ruas Tol Jagorawi",
+    "to": "Cawang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:34:00",
+    "date": "03 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Kalideres",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:40:00",
+    "date": "04 Jun 2025",
+    "from": "Pospol Cakung",
+    "to": "Bekasi Raya",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:25:00",
+    "date": "18 Jun 2025",
+    "from": "Kuningan",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:10:00",
+    "date": "18 Jun 2025",
+    "from": "Monas",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:12:00",
+    "date": "01 Jun 2025",
+    "from": "Cililitan",
+    "to": "Ruas Tol Jagorawi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:21:00",
+    "date": "31 May 2025",
+    "from": "Pintu Besi",
+    "to": "Ancol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:21:00",
+    "date": "31 May 2025",
+    "from": "Kemayoran",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:48:00",
+    "date": "25 May 2025",
+    "from": "Bundaran Hi",
+    "to": "Jendral Sudirman",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:31:00",
+    "date": "15 May 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:24:00",
+    "date": "29 May 2025",
+    "from": "On Ramp Fatmawati",
+    "to": "Cilandak",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:29:00",
+    "date": "20 May 2025",
+    "from": "Gambir",
+    "to": "Kwitang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:10:00",
+    "date": "05 Jun 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Cempaka Putih",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:17:00",
+    "date": "23 Jun 2025",
+    "from": "Dewi Sartika",
+    "to": "Kalibata",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:06:00",
+    "date": "19 May 2025",
+    "from": "Kalibata",
+    "to": "Pancoran",
+    "status": "Padat",
+    "obstacle": "Proyek",
+    "weather": null
+  },
+  {
+    "time": "22:50:00",
+    "date": "29 May 2025",
+    "from": "Tol Jakarta-Cikampek",
+    "to": "Cawang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:40:00",
+    "date": "03 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "20 Jun 2025",
+    "from": "Kalideres",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:08:00",
+    "date": "16 May 2025",
+    "from": "Kuningan",
+    "to": "Semanggi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:42:00",
+    "date": "24 Jun 2025",
+    "from": "Jembatan Tiga",
+    "to": "Emporium Pluit",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:53:00",
+    "date": "18 Jun 2025",
+    "from": "Pasar Minggu",
+    "to": "Kalibata",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:09:00",
+    "date": "23 May 2025",
+    "from": "Cawang",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:55:00",
+    "date": "15 May 2025",
+    "from": "Patung Kuda",
+    "to": "Monas",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:12:00",
+    "date": "01 Jun 2025",
+    "from": "Ruas Tol Jagorawi",
+    "to": "Pasar Rebo",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:37:00",
+    "date": "06 Jun 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "07 Jun 2025",
+    "from": "Perintis",
+    "to": "Kelapa Gading",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:51:00",
+    "date": "23 Jun 2025",
+    "from": "Melawai",
+    "to": "Panglima Polim",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:58:00",
+    "date": "24 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Harmoni",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:50:00",
+    "date": "29 May 2025",
+    "from": "Tol Jakarta-Cikampek",
+    "to": "Km 09+750",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:00:00",
+    "date": "22 Jun 2025",
+    "from": "Hotel Indonesia",
+    "to": "Sarinah",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:06:00",
+    "date": "22 May 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:53:00",
+    "date": "18 Jun 2025",
+    "from": "Kalibata",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:24:00",
+    "date": "29 May 2025",
+    "from": "Cilandak",
+    "to": "On Ramp Fatmawati",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:36:00",
+    "date": "21 May 2025",
+    "from": "Grogol",
+    "to": "Tomang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:31:00",
+    "date": "22 Jun 2025",
+    "from": "Semanggi",
+    "to": "Bundaran Senayan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:48:00",
+    "date": "13 Jun 2025",
+    "from": "Semanggi",
+    "to": "Bundaran Senayan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:59:00",
+    "date": "17 Jun 2025",
+    "from": "Cawang",
+    "to": "Bekasi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:19:00",
+    "date": "06 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:10:00",
+    "date": "18 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Harmoni",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:14:00",
+    "date": "03 Jun 2025",
+    "from": "Slipi",
+    "to": "Gatot Subroto",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:37:00",
+    "date": "26 May 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:13:00",
+    "date": "10 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:58:00",
+    "date": "24 Jun 2025",
+    "from": "Monas",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:00:00",
+    "date": "10 Jun 2025",
+    "from": "Matraman",
+    "to": "Jatinegara",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:02:00",
+    "date": "28 May 2025",
+    "from": "Cengkareng",
+    "to": "Kalideres",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:48:00",
+    "date": "25 May 2025",
+    "from": "Mh Thamrin",
+    "to": "Bundaran Hi",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:38:00",
+    "date": "18 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Slipi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:44:00",
+    "date": "12 Jun 2025",
+    "from": "Kwitang",
+    "to": "Tugu Tani",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:47:00",
+    "date": "29 May 2025",
+    "from": "Semanggi",
+    "to": "Pancoran",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:32:00",
+    "date": "24 Jun 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:36:00",
+    "date": "21 May 2025",
+    "from": "Tomang",
+    "to": "Grogol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:13:00",
+    "date": "10 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:37:00",
+    "date": "22 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:40:00",
+    "date": "21 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Ancol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:21:00",
+    "date": "31 May 2025",
+    "from": "Ruas Tol Jakarta-Tangerang",
+    "to": "Tomang",
+    "status": "Padat",
+    "obstacle": "Kecelakaan",
+    "weather": null
+  },
+  {
+    "time": "07:31:00",
+    "date": "15 May 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:15:00",
+    "date": "22 May 2025",
+    "from": "Grogol",
+    "to": "Pluit",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:20:00",
+    "date": "12 Jun 2025",
+    "from": "Kalibata",
+    "to": "Pasar Minggu",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:08:00",
+    "date": "18 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Pesing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:20:00",
+    "date": "15 Jun 2025",
+    "from": "Cempaka Putih",
+    "to": "Pulo Gadung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:16:00",
+    "date": "22 May 2025",
+    "from": "Ruas Tol Jakarta-Tangerang",
+    "to": "Tomang",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:42:00",
+    "date": "24 Jun 2025",
+    "from": "Emporium Pluit",
+    "to": "Muara Angke",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:05:00",
+    "date": "22 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:14:00",
+    "date": "03 Jun 2025",
+    "from": "Senayan",
+    "to": "Gatot Subroto",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:59:00",
+    "date": "17 Jun 2025",
+    "from": "Bekasi",
+    "to": "Cawang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:24:00",
+    "date": "23 Jun 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:17:00",
+    "date": "23 Jun 2025",
+    "from": "Cililitan",
+    "to": "Dewi Sartika",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:40:00",
+    "date": "05 Jun 2025",
+    "from": "Wahidin",
+    "to": "Senen",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:44:00",
+    "date": "17 Jun 2025",
+    "from": "Kwitang",
+    "to": "Tugu Tani",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:24:00",
+    "date": "17 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Kalideres",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "19 Jun 2025",
+    "from": "Cawang",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:53:00",
+    "date": "24 Jun 2025",
+    "from": "Tb Simatupang",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:37:00",
+    "date": "06 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "17 Jun 2025",
+    "from": "Muara Angke",
+    "to": "Emporium Pluit",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:40:00",
+    "date": "01 Jun 2025",
+    "from": "Kuningan",
+    "to": "Gatot Subroto",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:44:00",
+    "date": "15 May 2025",
+    "from": "Matraman",
+    "to": "Jatinegara",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:26:00",
+    "date": "09 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Kampung Rambutan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:48:00",
+    "date": "08 Jun 2025",
+    "from": "Letjen Suprapto",
+    "to": "Cempaka Putih",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:40:00",
+    "date": "21 Jun 2025",
+    "from": "Ancol",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:32:00",
+    "date": "18 Jun 2025",
+    "from": "Gunung Sahari",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:09:00",
+    "date": "23 May 2025",
+    "from": "Kuningan",
+    "to": "Off Ramp Tebet",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:56:00",
+    "date": "03 Jun 2025",
+    "from": "Kuningan",
+    "to": "Tanah Abang",
+    "status": "Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:37:00",
+    "date": "16 Jun 2025",
+    "from": "Caglak",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:03:00",
+    "date": "31 May 2025",
+    "from": "Kelapa Gading",
+    "to": "Moi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:23:00",
+    "date": "12 Jun 2025",
+    "from": "Panjaitan",
+    "to": "Halim Lama",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:13:00",
+    "date": "10 Jun 2025",
+    "from": "Semanggi",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:40:00",
+    "date": "01 Jun 2025",
+    "from": "Slipi",
+    "to": "Kuningan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:19:00",
+    "date": "31 May 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:06:00",
+    "date": "24 Jun 2025",
+    "from": "Mampang Prapatan",
+    "to": "Tendean",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:10:00",
+    "date": "09 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:30:00",
+    "date": "23 May 2025",
+    "from": "Gatot Subroto",
+    "to": "Semanggi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": "Volume Kendaraan",
+    "weather": null
+  },
+  {
+    "time": "19:42:00",
+    "date": "24 Jun 2025",
+    "from": "Emporium Pluit",
+    "to": "Jembatan Tiga",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:46:00",
+    "date": "14 Jun 2025",
+    "from": "Kampung Rambutan",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:05:00",
+    "date": "24 Jun 2025",
+    "from": "Halim Lama",
+    "to": "Panjaitan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:33:00",
+    "date": "21 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:21:00",
+    "date": "07 Jun 2025",
+    "from": "Koja",
+    "to": "Tanjung Priok",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:50:00",
+    "date": "09 Jun 2025",
+    "from": "Mt Haryono",
+    "to": "Halim Baru",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:00:00",
+    "date": "31 May 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:46:00",
+    "date": "21 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Cililitan",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:20:00",
+    "date": "05 Jun 2025",
+    "from": "Tomang",
+    "to": "Biak",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:24:00",
+    "date": "24 May 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Cempaka Putih",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:50:00",
+    "date": "29 May 2025",
+    "from": "Km 09+750",
+    "to": "Tol Jakarta-Cikampek",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:25:00",
+    "date": "12 Jun 2025",
+    "from": "Cawang Kompor",
+    "to": "Otista Raya",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:48:00",
+    "date": "27 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:32:00",
+    "date": "24 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:32:00",
+    "date": "18 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Kemayoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:42:00",
+    "date": "24 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:24:00",
+    "date": "14 Jun 2025",
+    "from": "Kota Tua",
+    "to": "Asemka",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:22:00",
+    "date": "03 Jun 2025",
+    "from": "Halim Baru",
+    "to": "Pancoran",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:07:00",
+    "date": "18 Jun 2025",
+    "from": "Rasuna Said",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:21:00",
+    "date": "31 May 2025",
+    "from": "Pintu Besi",
+    "to": "Kemayoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:17:00",
+    "date": "23 Jun 2025",
+    "from": "Dewi Sartika",
+    "to": "Cililitan",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:01:00",
+    "date": "03 Jun 2025",
+    "from": "Sunter",
+    "to": "Moi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:23:00",
+    "date": "12 Jun 2025",
+    "from": "Halim Lama",
+    "to": "Panjaitan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:02:00",
+    "date": "18 Jun 2025",
+    "from": "Semanggi",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:24:00",
+    "date": "17 Jun 2025",
+    "from": "Kalideres",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:45:00",
+    "date": "31 May 2025",
+    "from": "Gatot Subroto",
+    "to": "Senayan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:46:00",
+    "date": "22 May 2025",
+    "from": "Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:08:00",
+    "date": "18 Jun 2025",
+    "from": "Kalideres",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "04 Jun 2025",
+    "from": "Gambir",
+    "to": "Kwitang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:18:00",
+    "date": "09 Jun 2025",
+    "from": "Pasar Minggu",
+    "to": "Kalibata",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:34:00",
+    "date": "03 Jun 2025",
+    "from": "Pesing",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:57:00",
+    "date": "09 Jun 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Cempaka Putih",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:11:00",
+    "date": "12 Jun 2025",
+    "from": "Senayan",
+    "to": "Gatot Subroto",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:15:00",
+    "date": "22 May 2025",
+    "from": "Pluit",
+    "to": "Grogol",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:37:00",
+    "date": "26 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:10:00",
+    "date": "05 Jun 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Salemba",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:50:00",
+    "date": "09 Jun 2025",
+    "from": "Slipi",
+    "to": "Tomang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:00:00",
+    "date": "20 Jun 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:00:00",
+    "date": "20 May 2025",
+    "from": "Cakung",
+    "to": "Pospol Cakung",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "20 Jun 2025",
+    "from": "Muara Angke",
+    "to": "Emporium Pluit",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:03:00",
+    "date": "17 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:46:00",
+    "date": "21 Jun 2025",
+    "from": "Ruas Tol Jagorawi",
+    "to": "Pasar Rebo",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:36:00",
+    "date": "29 May 2025",
+    "from": "Ruas Tol Jagorawi",
+    "to": "Pasar Rebo",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:19:00",
+    "date": "25 May 2025",
+    "from": "Pulogadung",
+    "to": "Rawamangun",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:02:00",
+    "date": "18 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:11:00",
+    "date": "03 Jun 2025",
+    "from": "Emporium Pluit",
+    "to": "Jembatan Tiga",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:20:00",
+    "date": "05 Jun 2025",
+    "from": "Biak",
+    "to": "Tomang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:09:00",
+    "date": "23 May 2025",
+    "from": "Off Ramp Tebet",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:58:00",
+    "date": "17 Jun 2025",
+    "from": "Halim Baru",
+    "to": "Mt Haryono",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:49:00",
+    "date": "28 May 2025",
+    "from": "Patung Kuda",
+    "to": "Mh Thamrin",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:24:00",
+    "date": "24 May 2025",
+    "from": "Asemka",
+    "to": "Kota Tua",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:46:00",
+    "date": "14 Jun 2025",
+    "from": "Tb Simatupang",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "07 Jun 2025",
+    "from": "Kelapa Gading",
+    "to": "Perintis",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:40:00",
+    "date": "13 Jun 2025",
+    "from": "Semanggi",
+    "to": "Cawang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "13 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:36:00",
+    "date": "21 May 2025",
+    "from": "Grogol",
+    "to": "Latumenten",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:10:00",
+    "date": "17 May 2025",
+    "from": "Cawang",
+    "to": "Ruas Tol Jagorawi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:28:00",
+    "date": "20 Jun 2025",
+    "from": "Slipi",
+    "to": "Tomang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:28:00",
+    "date": "21 Jun 2025",
+    "from": "Ampera",
+    "to": "Rindam",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:16:00",
+    "date": "12 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Mh Thamrin",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "07 Jun 2025",
+    "from": "Perintis",
+    "to": "Pulogadung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:10:00",
+    "date": "18 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Monas",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:00:00",
+    "date": "18 Jun 2025",
+    "from": "Karet Bivak",
+    "to": "Pejompongan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:37:00",
+    "date": "03 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:29:00",
+    "date": "12 Jun 2025",
+    "from": "Mampang Prapatan",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:28:00",
+    "date": "21 Jun 2025",
+    "from": "Tb Simatupang",
+    "to": "Rindam",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:46:00",
+    "date": "14 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Tb Simatupang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:15:00",
+    "date": "05 Jun 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Letjen Suprapto",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:28:00",
+    "date": "29 May 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:17:00",
+    "date": "17 May 2025",
+    "from": "Pasar Rebo",
+    "to": "Caglak",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:19:00",
+    "date": "06 Jun 2025",
+    "from": "Pancoran",
+    "to": "Gatot Subroto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:28:00",
+    "date": "24 May 2025",
+    "from": "Koja",
+    "to": "Tanjung Priok",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:29:00",
+    "date": "29 May 2025",
+    "from": "Pasar Rebo",
+    "to": "Kampung Rambutan",
+    "status": "Ramai Lancar",
+    "obstacle": "Proyek",
+    "weather": null
+  },
+  {
+    "time": "10:08:00",
+    "date": "15 Jun 2025",
+    "from": "Tol Jakarta-Cikampek",
+    "to": "Km 09+750",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:21:00",
+    "date": "28 May 2025",
+    "from": "Tanah Abang",
+    "to": "Sarinah",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:53:00",
+    "date": "18 Jun 2025",
+    "from": "Pancoran",
+    "to": "Kalibata",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:29:00",
+    "date": "20 May 2025",
+    "from": "Gambir",
+    "to": "Tugu Tani",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:41:00",
+    "date": "08 Jun 2025",
+    "from": "Kwitang",
+    "to": "Tugu Tani",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:25:00",
+    "date": "01 Jun 2025",
+    "from": "Dukuh Atas",
+    "to": "Hotel Indonesia",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "07 Jun 2025",
+    "from": "Pulogadung",
+    "to": "Perintis",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:25:00",
+    "date": "12 Jun 2025",
+    "from": "Cawang Kompor",
+    "to": "Dewi Sartika",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:43:00",
+    "date": "22 Jun 2025",
+    "from": "Semanggi",
+    "to": "Slipi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:30:00",
+    "date": "03 Jun 2025",
+    "from": "Jendral Sudirman",
+    "to": "Mh Thamrin",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:22:00",
+    "date": "06 Jun 2025",
+    "from": "Fatmawati",
+    "to": "Panglima Polim",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:22:00",
+    "date": "03 Jun 2025",
+    "from": "Cawang",
+    "to": "Halim Baru",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:40:00",
+    "date": "13 Jun 2025",
+    "from": "Semanggi",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:19:00",
+    "date": "25 May 2025",
+    "from": "Rawamangun",
+    "to": "Salemba",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:34:00",
+    "date": "09 Jun 2025",
+    "from": "Tol Jakarta-Cikampek",
+    "to": "Km 09+750",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:10:00",
+    "date": "05 Jun 2025",
+    "from": "Cempaka Putih",
+    "to": "Simpang Lima Senen",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:08:00",
+    "date": "16 May 2025",
+    "from": "Kuningan",
+    "to": "Slipi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:22:00",
+    "date": "23 Jun 2025",
+    "from": "Tebet",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:22:00",
+    "date": "03 Jun 2025",
+    "from": "Jatinegara",
+    "to": "Halim Baru",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:14:00",
+    "date": "31 May 2025",
+    "from": "Muara Angke",
+    "to": "Emporium Pluit",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:58:00",
+    "date": "24 Jun 2025",
+    "from": "Harmoni",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:30:00",
+    "date": "25 May 2025",
+    "from": "Mh Thamrin",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": "Hujan"
+  },
+  {
+    "time": "16:01:00",
+    "date": "03 Jun 2025",
+    "from": "Moi",
+    "to": "Kelapa Gading",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:32:00",
+    "date": "24 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:17:00",
+    "date": "15 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Mh Thamrin",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:11:00",
+    "date": "28 May 2025",
+    "from": "Cawang Kompor",
+    "to": "Dewi Sartika",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:38:00",
+    "date": "13 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Cawang",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:37:00",
+    "date": "12 Jun 2025",
+    "from": "Matraman",
+    "to": "Jatinegara",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:38:00",
+    "date": "18 Jun 2025",
+    "from": "Slipi",
+    "to": "Gatot Subroto",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:15:00",
+    "date": "13 Jun 2025",
+    "from": "Bintang Mas Ancol",
+    "to": "Cilincing",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:41:00",
+    "date": "06 Jun 2025",
+    "from": "Tol Jakarta-Cikampek",
+    "to": "Km 09+750",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:50:00",
+    "date": "29 May 2025",
+    "from": "Cawang",
+    "to": "Tol Jakarta-Cikampek",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:58:00",
+    "date": "17 Jun 2025",
+    "from": "Panjaitan",
+    "to": "Halim Baru",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:20:00",
+    "date": "15 Jun 2025",
+    "from": "Pulo Gadung",
+    "to": "Cempaka Putih",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:18:00",
+    "date": "09 Jun 2025",
+    "from": "Kalibata",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:07:00",
+    "date": "28 May 2025",
+    "from": "Semanggi",
+    "to": "Pancoran",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:59:00",
+    "date": "06 Jun 2025",
+    "from": "Tb Simatupang",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:17:00",
+    "date": "15 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Monas",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:05:00",
+    "date": "22 Jun 2025",
+    "from": "Semanggi",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:14:00",
+    "date": "07 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Cibubur",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:40:00",
+    "date": "03 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "24 May 2025",
+    "from": "Pintu Besi",
+    "to": "Ancol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:46:00",
+    "date": "25 May 2025",
+    "from": "Kalideres",
+    "to": "Daan Mogot",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:11:00",
+    "date": "09 Jun 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:10:00",
+    "date": "24 Jun 2025",
+    "from": "Senayan",
+    "to": "Gatot Subroto",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "08 Jun 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Cempaka Putih",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:14:00",
+    "date": "07 Jun 2025",
+    "from": "Cibubur",
+    "to": "Kiwi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:05:00",
+    "date": "03 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:21:00",
+    "date": "07 Jun 2025",
+    "from": "Cilincing",
+    "to": "Koja",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "23 May 2025",
+    "from": "Matraman",
+    "to": "Jatinegara",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:50:00",
+    "date": "29 May 2025",
+    "from": "Tol Jakarta-Cikampek",
+    "to": "Bekasi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:11:00",
+    "date": "12 Jun 2025",
+    "from": "Slipi",
+    "to": "Gatot Subroto",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:30:00",
+    "date": "03 Jun 2025",
+    "from": "Semanggi",
+    "to": "Jendral Sudirman",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:33:00",
+    "date": "21 Jun 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "24 May 2025",
+    "from": "Pintu Besi",
+    "to": "Gunung Sahari",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:27:00",
+    "date": "19 Jun 2025",
+    "from": "Cakung",
+    "to": "Cilincing",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:18:00",
+    "date": "09 Jun 2025",
+    "from": "Kalibata",
+    "to": "Pasar Minggu",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:01:00",
+    "date": "03 Jun 2025",
+    "from": "Moi",
+    "to": "Sunter",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:21:00",
+    "date": "31 May 2025",
+    "from": "Ancol",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:22:00",
+    "date": "03 Jun 2025",
+    "from": "Halim Baru",
+    "to": "Jatinegara",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:06:00",
+    "date": "24 Jun 2025",
+    "from": "Tendean",
+    "to": "Pancoran",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:20:00",
+    "date": "01 Jun 2025",
+    "from": "Jendral Sudirman",
+    "to": "Bundaran Hi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:25:00",
+    "date": "18 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Kuningan",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:31:00",
+    "date": "23 Jun 2025",
+    "from": "Ancol",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:06:00",
+    "date": "19 May 2025",
+    "from": "Tebet",
+    "to": "Pancoran",
+    "status": "Padat",
+    "obstacle": "Proyek",
+    "weather": null
+  },
+  {
+    "time": "16:31:00",
+    "date": "18 Jun 2025",
+    "from": "Jatinegara",
+    "to": "Matraman",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:35:00",
+    "date": "16 Jun 2025",
+    "from": "Halim Lama",
+    "to": "Pancoran",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:43:00",
+    "date": "03 Jun 2025",
+    "from": "Salemba",
+    "to": "Matraman",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:31:00",
+    "date": "22 Jun 2025",
+    "from": "Pakubuwono",
+    "to": "Bundaran Senayan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:56:00",
+    "date": "21 Jun 2025",
+    "from": "Kalideres",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:30:00",
+    "date": "26 May 2025",
+    "from": "Grogol",
+    "to": "Roxy",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:10:00",
+    "date": "18 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Mh Thamrin",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:50:00",
+    "date": "09 Jun 2025",
+    "from": "Halim Baru",
+    "to": "Mt Haryono",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:25:00",
+    "date": "12 Jun 2025",
+    "from": "Dewi Sartika",
+    "to": "Cawang Kompor",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:25:00",
+    "date": "12 Jun 2025",
+    "from": "Cawang Kompor",
+    "to": "Jatinegara",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:26:00",
+    "date": "09 Jun 2025",
+    "from": "Tb Simatupang",
+    "to": "Pasar Rebo",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:06:00",
+    "date": "24 Jun 2025",
+    "from": "Tendean",
+    "to": "Mampang Prapatan",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:05:00",
+    "date": "26 May 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:19:00",
+    "date": "31 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:21:00",
+    "date": "07 Jun 2025",
+    "from": "Tanjung Priok",
+    "to": "Koja",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:40:00",
+    "date": "23 Jun 2025",
+    "from": "Kalideres",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:11:00",
+    "date": "03 Jun 2025",
+    "from": "Muara Angke",
+    "to": "Emporium Pluit",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:30:00",
+    "date": "25 May 2025",
+    "from": "Patung Kuda",
+    "to": "Mh Thamrin",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": "Hujan"
+  },
+  {
+    "time": "06:30:00",
+    "date": "08 Jun 2025",
+    "from": "Gunung Sahari",
+    "to": "Simpang Lima Senen",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:58:00",
+    "date": "24 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Monas",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:03:00",
+    "date": "10 Jun 2025",
+    "from": "Ruas Tol Jakarta-Tangerang",
+    "to": "Meruya",
+    "status": "Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:17:00",
+    "date": "15 Jun 2025",
+    "from": "Salemba",
+    "to": "Matraman",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:11:00",
+    "date": "28 May 2025",
+    "from": "Cawang Kompor",
+    "to": "Otista Raya",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:22:00",
+    "date": "03 Jun 2025",
+    "from": "Halim Baru",
+    "to": "Mt Haryono",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:12:00",
+    "date": "24 May 2025",
+    "from": "Kampung Rambutan",
+    "to": "Pintu 1 Tmii",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:25:00",
+    "date": "18 Jun 2025",
+    "from": "Slipi",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:04:00",
+    "date": "29 May 2025",
+    "from": "Senen",
+    "to": "Salemba Raya",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "24 May 2025",
+    "from": "Gunung Sahari",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "17 Jun 2025",
+    "from": "Jembatan Tiga",
+    "to": "Emporium Pluit",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:32:00",
+    "date": "18 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Gunung Sahari",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:47:00",
+    "date": "01 Jun 2025",
+    "from": "Monas",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:24:00",
+    "date": "24 May 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Salemba",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:19:00",
+    "date": "31 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:30:00",
+    "date": "25 May 2025",
+    "from": "Patung Kuda",
+    "to": "Monas",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": "Hujan"
+  },
+  {
+    "time": "06:28:00",
+    "date": "24 May 2025",
+    "from": "Tanjung Priok",
+    "to": "Koja",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:11:00",
+    "date": "09 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:10:00",
+    "date": "24 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Senayan",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:26:00",
+    "date": "05 Jun 2025",
+    "from": "Cijantung",
+    "to": "Tamini Square",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:18:00",
+    "date": "05 Jun 2025",
+    "from": "Kota Tua",
+    "to": "Asemka",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:03:00",
+    "date": "23 May 2025",
+    "from": "Cawang",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:25:00",
+    "date": "01 Jun 2025",
+    "from": "Dukuh Atas",
+    "to": "Sarinah",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:23:00",
+    "date": "18 Jun 2025",
+    "from": "Blok M",
+    "to": "Prapanca Raya",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:58:00",
+    "date": "17 Jun 2025",
+    "from": "Halim Baru",
+    "to": "Panjaitan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:33:00",
+    "date": "05 Jun 2025",
+    "from": "Slipi",
+    "to": "Gatot Subroto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:26:00",
+    "date": "09 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Tb Simatupang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "25 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Semanggi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:00:00",
+    "date": "01 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Slipi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:11:00",
+    "date": "12 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Senayan",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:00:00",
+    "date": "26 May 2025",
+    "from": "Gambir",
+    "to": "Kwitang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:58:00",
+    "date": "17 Jun 2025",
+    "from": "Mt Haryono",
+    "to": "Halim Baru",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:22:00",
+    "date": "14 Jun 2025",
+    "from": "Cijantung",
+    "to": "Cililitan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:51:00",
+    "date": "23 Jun 2025",
+    "from": "Panglima Polim",
+    "to": "Melawai",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:08:00",
+    "date": "18 Jun 2025",
+    "from": "Pesing",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:18:00",
+    "date": "04 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Slipi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:12:00",
+    "date": "24 May 2025",
+    "from": "Pintu 1 Tmii",
+    "to": "Kampung Rambutan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:26:00",
+    "date": "05 Jun 2025",
+    "from": "Tamini Square",
+    "to": "Cijantung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "04 Jun 2025",
+    "from": "Tugu Tani",
+    "to": "Kwitang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:52:00",
+    "date": "20 May 2025",
+    "from": "Pasar Rebo",
+    "to": "Caglak",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:49:00",
+    "date": "28 May 2025",
+    "from": "Monas",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:25:00",
+    "date": "12 Jun 2025",
+    "from": "Jatinegara",
+    "to": "Cawang Kompor",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:54:00",
+    "date": "23 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:36:00",
+    "date": "29 May 2025",
+    "from": "Cililitan",
+    "to": "Ruas Tol Jagorawi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:30:00",
+    "date": "26 May 2025",
+    "from": "Roxy",
+    "to": "Grogol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:37:00",
+    "date": "03 Jun 2025",
+    "from": "Cawang",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:49:00",
+    "date": "28 May 2025",
+    "from": "Patung Kuda",
+    "to": "Monas",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "25 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:24:00",
+    "date": "24 May 2025",
+    "from": "Kota Tua",
+    "to": "Asemka",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:27:00",
+    "date": "24 May 2025",
+    "from": "Semanggi",
+    "to": "Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "25 May 2025",
+    "from": "Semanggi",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:40:00",
+    "date": "05 Jun 2025",
+    "from": "Senen",
+    "to": "Wahidin",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:30:00",
+    "date": "03 Jun 2025",
+    "from": "Mh Thamrin",
+    "to": "Jendral Sudirman",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:00:00",
+    "date": "19 Jun 2025",
+    "from": "Cijantung",
+    "to": "Caglak",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:58:00",
+    "date": "17 Jun 2025",
+    "from": "Halim Baru",
+    "to": "Cawang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:15:00",
+    "date": "13 Jun 2025",
+    "from": "Bintang Mas Ancol",
+    "to": "Tanjung Priok",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:40:00",
+    "date": "23 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Pesing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:21:00",
+    "date": "21 Jun 2025",
+    "from": "Cawang",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:21:00",
+    "date": "21 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "20 Jun 2025",
+    "from": "Pesing",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:22:00",
+    "date": "06 Jun 2025",
+    "from": "Fatmawati",
+    "to": "Lebak Bulus",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:26:00",
+    "date": "09 Jun 2025",
+    "from": "Kampung Rambutan",
+    "to": "Pasar Rebo",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:46:00",
+    "date": "25 May 2025",
+    "from": "Daan Mogot",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:21:00",
+    "date": "31 May 2025",
+    "from": "Gunung Sahari",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:06:00",
+    "date": "19 May 2025",
+    "from": "Pancoran",
+    "to": "Tebet",
+    "status": "Padat",
+    "obstacle": "Proyek",
+    "weather": null
+  },
+  {
+    "time": "20:46:00",
+    "date": "01 Jun 2025",
+    "from": "Senayan",
+    "to": "Gatot Subroto",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:21:00",
+    "date": "28 May 2025",
+    "from": "Kebon Sirih",
+    "to": "Sarinah",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:40:00",
+    "date": "03 Jun 2025",
+    "from": "Underpass Tomang",
+    "to": "Ruas Tol Jakarta-Tangerang",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:37:00",
+    "date": "03 Jun 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:46:00",
+    "date": "01 Jun 2025",
+    "from": "Slipi",
+    "to": "Gatot Subroto",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:05:00",
+    "date": "26 May 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:11:00",
+    "date": "03 Jun 2025",
+    "from": "Emporium Pluit",
+    "to": "Muara Angke",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:44:00",
+    "date": "12 Jun 2025",
+    "from": "Tugu Tani",
+    "to": "Kwitang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:15:00",
+    "date": "06 Jun 2025",
+    "from": "Semanggi",
+    "to": "Pancoran",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:00:00",
+    "date": "18 Jun 2025",
+    "from": "Pejompongan",
+    "to": "Karet Bivak",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:14:00",
+    "date": "31 May 2025",
+    "from": "Emporium Pluit",
+    "to": "Muara Angke",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:43:00",
+    "date": "03 Jun 2025",
+    "from": "Matraman",
+    "to": "Salemba",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:10:00",
+    "date": "05 Jun 2025",
+    "from": "Salemba",
+    "to": "Simpang Lima Senen",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:17:00",
+    "date": "15 Jun 2025",
+    "from": "Salemba",
+    "to": "Kramat Raya",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:40:00",
+    "date": "21 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Gunung Sahari",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:13:00",
+    "date": "10 Jun 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:15:00",
+    "date": "05 Jun 2025",
+    "from": "Letjen Suprapto",
+    "to": "Kemayoran",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:37:00",
+    "date": "12 Jun 2025",
+    "from": "Jatinegara",
+    "to": "Matraman",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "08 Jun 2025",
+    "from": "Cempaka Putih",
+    "to": "Simpang Lima Senen",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:28:00",
+    "date": "21 Jun 2025",
+    "from": "Rindam",
+    "to": "Tb Simatupang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:22:00",
+    "date": "03 Jun 2025",
+    "from": "Mt Haryono",
+    "to": "Halim Baru",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:20:00",
+    "date": "01 Jun 2025",
+    "from": "Bundaran Hi",
+    "to": "Jendral Sudirman",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:14:00",
+    "date": "07 Jun 2025",
+    "from": "Cibubur",
+    "to": "Pasar Rebo",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:38:00",
+    "date": "17 Jun 2025",
+    "from": "Kota Tua",
+    "to": "Asemka",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:15:00",
+    "date": "13 Jun 2025",
+    "from": "Tanjung Priok",
+    "to": "Bintang Mas Ancol",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:21:00",
+    "date": "21 Jun 2025",
+    "from": "Kuningan",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:06:00",
+    "date": "19 May 2025",
+    "from": "Pancoran",
+    "to": "Kalibata",
+    "status": "Padat",
+    "obstacle": "Proyek",
+    "weather": null
+  },
+  {
+    "time": "18:30:00",
+    "date": "20 May 2025",
+    "from": "Pintu 10 Gbk",
+    "to": "Gerbang Pemuda",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:56:00",
+    "date": "21 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Kalideres",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:00:00",
+    "date": "13 Jun 2025",
+    "from": "Senayan",
+    "to": "Slipi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:31:00",
+    "date": "22 Jun 2025",
+    "from": "Bundaran Senayan",
+    "to": "Pakubuwono",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:38:00",
+    "date": "13 Jun 2025",
+    "from": "Cawang",
+    "to": "Pancoran",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:28:00",
+    "date": "21 Jun 2025",
+    "from": "Rindam",
+    "to": "Ampera",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:05:00",
+    "date": "26 May 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:29:00",
+    "date": "12 Jun 2025",
+    "from": "Kuningan",
+    "to": "Mampang Prapatan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:20:00",
+    "date": "12 Jun 2025",
+    "from": "Kalibata",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:19:00",
+    "date": "06 Jun 2025",
+    "from": "Kuningan",
+    "to": "Gatot Subroto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:31:00",
+    "date": "15 May 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:06:00",
+    "date": "22 May 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:58:00",
+    "date": "15 May 2025",
+    "from": "Slipi",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:31:00",
+    "date": "23 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Ancol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:02:00",
+    "date": "18 Jun 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "13 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:19:00",
+    "date": "25 May 2025",
+    "from": "Rawamangun",
+    "to": "Pulogadung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:48:00",
+    "date": "13 Jun 2025",
+    "from": "Bundaran Senayan",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "19 Jun 2025",
+    "from": "Cawang",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:40:00",
+    "date": "13 Jun 2025",
+    "from": "Kuningan",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:15:00",
+    "date": "05 Jun 2025",
+    "from": "Letjen Suprapto",
+    "to": "Simpang Lima Senen",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "04 Jun 2025",
+    "from": "Kwitang",
+    "to": "Gambir",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:04:00",
+    "date": "29 May 2025",
+    "from": "Matraman",
+    "to": "Senen",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:12:00",
+    "date": "01 Jun 2025",
+    "from": "Ruas Tol Jagorawi",
+    "to": "Cililitan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:07:00",
+    "date": "21 May 2025",
+    "from": "Tmii",
+    "to": "Tamini Square",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:12:00",
+    "date": "01 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Ruas Tol Jagorawi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:40:00",
+    "date": "23 Jun 2025",
+    "from": "Pesing",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:06:00",
+    "date": "19 May 2025",
+    "from": "Pancoran",
+    "to": "Cawang",
+    "status": "Padat",
+    "obstacle": "Proyek",
+    "weather": null
+  },
+  {
+    "time": "06:31:00",
+    "date": "23 Jun 2025",
+    "from": "Kemayoran",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:29:00",
+    "date": "20 May 2025",
+    "from": "Kwitang",
+    "to": "Gambir",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:31:00",
+    "date": "23 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Gunung Sahari",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:38:00",
+    "date": "17 Jun 2025",
+    "from": "Asemka",
+    "to": "Kota Tua",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:40:00",
+    "date": "13 Jun 2025",
+    "from": "Cawang",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:21:00",
+    "date": "03 Jun 2025",
+    "from": "Pancoran",
+    "to": "Kalibata",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:56:00",
+    "date": "21 Jun 2025",
+    "from": "Pesing",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:27:00",
+    "date": "13 Jun 2025",
+    "from": "Semanggi",
+    "to": "Slipi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:25:00",
+    "date": "12 Jun 2025",
+    "from": "Otista Raya",
+    "to": "Cawang Kompor",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:55:00",
+    "date": "24 Jun 2025",
+    "from": "Pancoran",
+    "to": "Slipi",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:08:00",
+    "date": "16 May 2025",
+    "from": "Slipi",
+    "to": "Kuningan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:00:00",
+    "date": "03 Jun 2025",
+    "from": "Penjernihan",
+    "to": "Pejompongan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:50:00",
+    "date": "29 May 2025",
+    "from": "Bekasi",
+    "to": "Tol Jakarta-Cikampek",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:19:00",
+    "date": "31 May 2025",
+    "from": "Semanggi",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:01:00",
+    "date": "17 May 2025",
+    "from": "Jendral Sudirman",
+    "to": "Bundaran Hi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:59:00",
+    "date": "06 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Tb Simatupang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:08:00",
+    "date": "16 May 2025",
+    "from": "Semanggi",
+    "to": "Kuningan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:32:00",
+    "date": "18 Jun 2025",
+    "from": "Kemayoran",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:22:00",
+    "date": "14 Jun 2025",
+    "from": "Cililitan",
+    "to": "Cijantung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:54:00",
+    "date": "23 Jun 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:40:00",
+    "date": "21 Jun 2025",
+    "from": "Gunung Sahari",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:11:00",
+    "date": "14 Jun 2025",
+    "from": "Cililitan",
+    "to": "Cijantung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "08 Jun 2025",
+    "from": "Simpang Lima Senen",
+    "to": "Gunung Sahari",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:54:00",
+    "date": "29 May 2025",
+    "from": "Central Park",
+    "to": "Grogol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:07:00",
+    "date": "28 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Semanggi",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:55:00",
+    "date": "15 May 2025",
+    "from": "Mh Thamrin",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:46:00",
+    "date": "25 May 2025",
+    "from": "Cengkareng",
+    "to": "Daan Mogot",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:02:00",
+    "date": "18 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:00:00",
+    "date": "03 Jun 2025",
+    "from": "Pejompongan",
+    "to": "Penjernihan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:10:00",
+    "date": "03 Jun 2025",
+    "from": "Rindam",
+    "to": "Condet",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "20 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Pesing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:47:00",
+    "date": "01 Jun 2025",
+    "from": "Harmoni",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:33:00",
+    "date": "05 Jun 2025",
+    "from": "Senayan",
+    "to": "Gatot Subroto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:31:00",
+    "date": "23 Jun 2025",
+    "from": "Gunung Sahari",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:53:00",
+    "date": "18 Jun 2025",
+    "from": "Kalibata",
+    "to": "Pasar Minggu",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:42:00",
+    "date": "29 May 2025",
+    "from": "Lapangan Tembak Senayan",
+    "to": "Asia Afrika",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:17:00",
+    "date": "15 Jun 2025",
+    "from": "Monas",
+    "to": "Patung Kuda",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:06:00",
+    "date": "19 May 2025",
+    "from": "Cawang",
+    "to": "Pancoran",
+    "status": "Padat",
+    "obstacle": "Proyek",
+    "weather": null
+  },
+  {
+    "time": "16:18:00",
+    "date": "09 Jun 2025",
+    "from": "Pancoran",
+    "to": "Kalibata",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:11:00",
+    "date": "09 Jun 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:33:00",
+    "date": "05 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Senayan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:37:00",
+    "date": "21 May 2025",
+    "from": "Cilincing",
+    "to": "Bekasi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:24:00",
+    "date": "23 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:43:00",
+    "date": "03 Jun 2025",
+    "from": "Kramat Raya",
+    "to": "Salemba",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:00:00",
+    "date": "18 Jun 2025",
+    "from": "Karet Bivak",
+    "to": "Dukuh Atas",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:40:00",
+    "date": "21 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Kemayoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:43:00",
+    "date": "03 Jun 2025",
+    "from": "Salemba",
+    "to": "Kramat Raya",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "19 Jun 2025",
+    "from": "Kuningan",
+    "to": "Cawang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:25:00",
+    "date": "01 Jun 2025",
+    "from": "Sarinah",
+    "to": "Dukuh Atas",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:15:00",
+    "date": "13 Jun 2025",
+    "from": "Cilincing",
+    "to": "Bintang Mas Ancol",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:29:00",
+    "date": "12 Jun 2025",
+    "from": "Kuningan",
+    "to": "Rasuna Said",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:41:00",
+    "date": "03 Jun 2025",
+    "from": "Pesing",
+    "to": "Daan Mogot",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:31:00",
+    "date": "23 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Kemayoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:46:00",
+    "date": "01 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Senayan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "20 Jun 2025",
+    "from": "Jembatan Tiga",
+    "to": "Emporium Pluit",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:00:00",
+    "date": "26 May 2025",
+    "from": "Gambir",
+    "to": "Tugu Tani",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:55:00",
+    "date": "23 May 2025",
+    "from": "Mrt Fatmawati",
+    "to": "Lebak Bulus",
+    "status": "Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:41:00",
+    "date": "03 Jun 2025",
+    "from": "Daan Mogot",
+    "to": "Pesing",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "07 Jun 2025",
+    "from": "Rawamangun",
+    "to": "Perintis",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:44:00",
+    "date": "22 Jun 2025",
+    "from": "Cawang",
+    "to": "Tol Jakarta-Cikampek",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "24 May 2025",
+    "from": "Kemayoran",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:42:00",
+    "date": "12 Jun 2025",
+    "from": "Underpass Tomang",
+    "to": "Ruas Tol Jakarta-Tangerang",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:36:00",
+    "date": "29 May 2025",
+    "from": "Pasar Rebo",
+    "to": "Ruas Tol Jagorawi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "13 Jun 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:21:00",
+    "date": "03 Jun 2025",
+    "from": "Kalibata",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:53:00",
+    "date": "24 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Tb Simatupang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:21:00",
+    "date": "28 May 2025",
+    "from": "Sarinah",
+    "to": "Tanah Abang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:17:00",
+    "date": "17 May 2025",
+    "from": "Caglak",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:22:00",
+    "date": "23 Jun 2025",
+    "from": "Kuningan",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:07:00",
+    "date": "21 May 2025",
+    "from": "Tamini Square",
+    "to": "Tmii",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:00:00",
+    "date": "28 May 2025",
+    "from": "Pgc",
+    "to": "Dewi Sartika",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:51:00",
+    "date": "19 Jun 2025",
+    "from": "Cawang",
+    "to": "Tol Jakarta-Cikampek",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:41:00",
+    "date": "08 Jun 2025",
+    "from": "Tugu Tani",
+    "to": "Kwitang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:14:00",
+    "date": "03 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Senayan",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "20 Jun 2025",
+    "from": "Emporium Pluit",
+    "to": "Muara Angke",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:36:00",
+    "date": "29 May 2025",
+    "from": "Ruas Tol Jagorawi",
+    "to": "Cililitan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:05:00",
+    "date": "22 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:16:00",
+    "date": "12 Jun 2025",
+    "from": "Gambir",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:00:00",
+    "date": "18 Jun 2025",
+    "from": "Dukuh Atas",
+    "to": "Karet Bivak",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:19:00",
+    "date": "06 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:22:00",
+    "date": "23 Jun 2025",
+    "from": "Pancoran",
+    "to": "Tebet",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:57:00",
+    "date": "09 Jun 2025",
+    "from": "Cempaka Putih",
+    "to": "Simpang Lima Senen",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:22:00",
+    "date": "06 Jun 2025",
+    "from": "Lebak Bulus",
+    "to": "Fatmawati",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:11:00",
+    "date": "28 May 2025",
+    "from": "Otista Raya",
+    "to": "Cawang Kompor",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:37:00",
+    "date": "03 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Cawang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:32:00",
+    "date": "24 Jun 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:41:00",
+    "date": "03 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Daan Mogot",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:28:00",
+    "date": "20 Jun 2025",
+    "from": "Tomang",
+    "to": "Slipi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:11:00",
+    "date": "12 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Slipi",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:29:00",
+    "date": "22 May 2025",
+    "from": "Jembatan Lima",
+    "to": "Suryopranoto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:21:00",
+    "date": "31 May 2025",
+    "from": "Tomang",
+    "to": "Ruas Tol Jakarta-Tangerang",
+    "status": "Padat",
+    "obstacle": "Kecelakaan",
+    "weather": null
+  },
+  {
+    "time": "08:59:00",
+    "date": "06 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Kampung Rambutan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "25 May 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:02:00",
+    "date": "01 Jun 2025",
+    "from": "Bandara Soetta",
+    "to": "Cengkareng",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:42:00",
+    "date": "24 Jun 2025",
+    "from": "Muara Angke",
+    "to": "Emporium Pluit",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:03:00",
+    "date": "31 May 2025",
+    "from": "Moi",
+    "to": "Sunter",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:29:00",
+    "date": "20 May 2025",
+    "from": "Tugu Tani",
+    "to": "Gambir",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:20:00",
+    "date": "15 Jun 2025",
+    "from": "Letjen Suprapto",
+    "to": "Cempaka Putih",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:08:00",
+    "date": "18 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Kalideres",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:57:00",
+    "date": "09 Jun 2025",
+    "from": "Kramat Bunder",
+    "to": "Simpang Lima Senen",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:57:00",
+    "date": "08 Jun 2025",
+    "from": "Tol Jakarta-Cikampek",
+    "to": "Km 09+750",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:06:00",
+    "date": "22 May 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:05:00",
+    "date": "22 Jun 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:16:00",
+    "date": "22 May 2025",
+    "from": "Tomang",
+    "to": "Meruya",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:24:00",
+    "date": "23 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:03:00",
+    "date": "31 May 2025",
+    "from": "Sunter",
+    "to": "Moi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:22:00",
+    "date": "06 Jun 2025",
+    "from": "Panglima Polim",
+    "to": "Fatmawati",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:00:00",
+    "date": "26 May 2025",
+    "from": "Tugu Tani",
+    "to": "Gambir",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:19:00",
+    "date": "25 May 2025",
+    "from": "Salemba",
+    "to": "Rawamangun",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:20:00",
+    "date": "20 May 2025",
+    "from": "Halim Baru",
+    "to": "Uki Cawang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:27:00",
+    "date": "12 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:44:00",
+    "date": "15 May 2025",
+    "from": "Jatinegara",
+    "to": "Matraman",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:40:00",
+    "date": "23 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Kalideres",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:38:00",
+    "date": "18 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Senayan",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:36:00",
+    "date": "21 May 2025",
+    "from": "Latumenten",
+    "to": "Grogol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:32:00",
+    "date": "18 Jun 2025",
+    "from": "Pintu Besi",
+    "to": "Ancol",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:33:00",
+    "date": "21 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:23:00",
+    "date": "18 Jun 2025",
+    "from": "Prapanca Raya",
+    "to": "Blok M",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:20:00",
+    "date": "22 Jun 2025",
+    "from": "Off Ramp Cipete",
+    "to": "Mampang Prapatan",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:48:00",
+    "date": "21 Jun 2025",
+    "from": "Cakung",
+    "to": "Pulogadung",
+    "status": "Cukup Padat",
+    "obstacle": "Proyek",
+    "weather": null
+  },
+  {
+    "time": "06:28:00",
+    "date": "20 Jun 2025",
+    "from": "Semanggi",
+    "to": "Slipi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:31:00",
+    "date": "18 Jun 2025",
+    "from": "Matraman",
+    "to": "Jatinegara",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "19:09:00",
+    "date": "23 May 2025",
+    "from": "Kuningan",
+    "to": "Cawang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:15:00",
+    "date": "22 May 2025",
+    "from": "Pluit",
+    "to": "Bandara Soekarno Hatta",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "05:24:00",
+    "date": "14 Jun 2025",
+    "from": "Asemka",
+    "to": "Kota Tua",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:20:00",
+    "date": "22 Jun 2025",
+    "from": "Harmoni",
+    "to": "Bundaran Patung Kuda",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:15:00",
+    "date": "26 May 2025",
+    "from": "Pasar Rebo",
+    "to": "Rindam",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:15:00",
+    "date": "26 May 2025",
+    "from": "Rindam",
+    "to": "Pasar Rebo",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "20 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Kalideres",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "22 May 2025",
+    "from": "Cawang",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:28:00",
+    "date": "29 May 2025",
+    "from": "Semanggi",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:55:00",
+    "date": "24 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:41:00",
+    "date": "03 Jun 2025",
+    "from": "Daan Mogot",
+    "to": "Cengkareng",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:17:00",
+    "date": "15 Jun 2025",
+    "from": "Kramat Raya",
+    "to": "Salemba",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:14:00",
+    "date": "07 Jun 2025",
+    "from": "Kiwi",
+    "to": "Cibubur",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:47:00",
+    "date": "01 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Mh Thamrin",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:25:00",
+    "date": "13 Jun 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:38:00",
+    "date": "18 Jun 2025",
+    "from": "Senayan",
+    "to": "Gatot Subroto",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:33:00",
+    "date": "05 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Slipi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:36:00",
+    "date": "20 Jun 2025",
+    "from": "Emporium Pluit",
+    "to": "Jembatan Tiga",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:00:00",
+    "date": "23 May 2025",
+    "from": "Cakung",
+    "to": "Cilincing",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:15:00",
+    "date": "05 Jun 2025",
+    "from": "Kemayoran",
+    "to": "Letjen Suprapto",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:48:00",
+    "date": "25 May 2025",
+    "from": "Jendral Sudirman",
+    "to": "Bundaran Hi",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:21:00",
+    "date": "21 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Cawang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:34:00",
+    "date": "03 Jun 2025",
+    "from": "Kalideres",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:48:00",
+    "date": "08 Jun 2025",
+    "from": "Cempaka Putih",
+    "to": "Pulogadung",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:49:00",
+    "date": "28 May 2025",
+    "from": "Mh Thamrin",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:46:00",
+    "date": "25 May 2025",
+    "from": "Daan Mogot",
+    "to": "Kalideres",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:06:00",
+    "date": "22 May 2025",
+    "from": "Bekasi",
+    "to": "Kolong Cakung",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:28:00",
+    "date": "21 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Rindam",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:29:00",
+    "date": "12 Jun 2025",
+    "from": "Rasuna Said",
+    "to": "Kuningan",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:21:00",
+    "date": "07 Jun 2025",
+    "from": "Koja",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:17:00",
+    "date": "17 May 2025",
+    "from": "Tb Simatupang",
+    "to": "Caglak",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:28:00",
+    "date": "20 Jun 2025",
+    "from": "Slipi",
+    "to": "Semanggi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:55:00",
+    "date": "17 May 2025",
+    "from": "Semanggi",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:18:00",
+    "date": "07 Jun 2025",
+    "from": "Bundaran Hi",
+    "to": "Jendral Sudirman",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:23:00",
+    "date": "29 May 2025",
+    "from": "Matraman",
+    "to": "Jatinegara",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "04 Jun 2025",
+    "from": "Kwitang",
+    "to": "Tugu Tani",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:34:00",
+    "date": "03 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Pesing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:30:00",
+    "date": "03 Jun 2025",
+    "from": "Jendral Sudirman",
+    "to": "Semanggi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:47:00",
+    "date": "01 Jun 2025",
+    "from": "Patung Kuda",
+    "to": "Monas",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:21:00",
+    "date": "28 May 2025",
+    "from": "Sarinah",
+    "to": "Mh Thamrin",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:14:00",
+    "date": "03 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Slipi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:48:00",
+    "date": "24 Jun 2025",
+    "from": "Pasar Minggu",
+    "to": "Kalibata",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:24:00",
+    "date": "23 Jun 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:53:00",
+    "date": "24 Jun 2025",
+    "from": "Cijantung",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:00:00",
+    "date": "31 May 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:10:00",
+    "date": "18 Jun 2025",
+    "from": "Harmoni",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:02:00",
+    "date": "28 May 2025",
+    "from": "Kalideres",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:24:00",
+    "date": "29 May 2025",
+    "from": "Cilandak",
+    "to": "Pondok Indah",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "21:55:00",
+    "date": "17 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:28:00",
+    "date": "10 Jun 2025",
+    "from": "Slipi",
+    "to": "Tomang",
+    "status": "Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:15:00",
+    "date": "06 Jun 2025",
+    "from": "Semanggi",
+    "to": "Slipi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:50:00",
+    "date": "13 Jun 2025",
+    "from": "Semanggi",
+    "to": "Bundaran Senayan",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": "Volume Kendaraan",
+    "weather": null
+  },
+  {
+    "time": "11:24:00",
+    "date": "03 Jun 2025",
+    "from": "Jendral Sudirman",
+    "to": "Bundaran Hi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:24:00",
+    "date": "03 Jun 2025",
+    "from": "Bundaran Hi",
+    "to": "Semanggi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:04:00",
+    "date": "22 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Kuningan",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:10:00",
+    "date": "22 Jun 2025",
+    "from": "Bundaran Senayan",
+    "to": "Semanggi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:55:00",
+    "date": "15 May 2025",
+    "from": "Monas",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:00:00",
+    "date": "26 May 2025",
+    "from": "Kwitang",
+    "to": "Gambir",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:32:00",
+    "date": "18 Jun 2025",
+    "from": "Ancol",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:04:00",
+    "date": "29 May 2025",
+    "from": "Senen",
+    "to": "Matraman",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:58:00",
+    "date": "17 Jun 2025",
+    "from": "Cawang",
+    "to": "Halim Baru",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:44:00",
+    "date": "17 Jun 2025",
+    "from": "Tugu Tani",
+    "to": "Kwitang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:48:00",
+    "date": "24 Jun 2025",
+    "from": "Kalibata",
+    "to": "Pasar Minggu",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:29:00",
+    "date": "08 Jun 2025",
+    "from": "Central Park",
+    "to": "Grogol",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:45:00",
+    "date": "31 May 2025",
+    "from": "Senayan",
+    "to": "Gatot Subroto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:37:00",
+    "date": "06 Jun 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:48:00",
+    "date": "25 May 2025",
+    "from": "Bundaran Hi",
+    "to": "Mh Thamrin",
+    "status": "Cukup Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:21:00",
+    "date": "31 May 2025",
+    "from": "Pintu Besi",
+    "to": "Gunung Sahari",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:46:00",
+    "date": "01 Jun 2025",
+    "from": "Gatot Subroto",
+    "to": "Slipi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:37:00",
+    "date": "15 Jun 2025",
+    "from": "Ruas Tol Jakarta-Tangerang",
+    "to": "Meruya",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:18:00",
+    "date": "05 Jun 2025",
+    "from": "Asemka",
+    "to": "Kota Tua",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:40:00",
+    "date": "03 Jun 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "22:01:00",
+    "date": "17 May 2025",
+    "from": "Bundaran Hi",
+    "to": "Jendral Sudirman",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:55:00",
+    "date": "15 May 2025",
+    "from": "Patung Kuda",
+    "to": "Mh Thamrin",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:10:00",
+    "date": "18 Jun 2025",
+    "from": "Mh Thamrin",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:17:00",
+    "date": "17 May 2025",
+    "from": "Ampera",
+    "to": "Caglak",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:06:00",
+    "date": "09 Jun 2025",
+    "from": "Harmoni",
+    "to": "Suryopranoto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:15:00",
+    "date": "19 Jun 2025",
+    "from": "Salemba Raya",
+    "to": "Matraman",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:40:00",
+    "date": "21 Jun 2025",
+    "from": "Kemayoran",
+    "to": "Pintu Besi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:02:00",
+    "date": "28 May 2025",
+    "from": "Daan Mogot",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:33:00",
+    "date": "21 Jun 2025",
+    "from": "Cilincing",
+    "to": "Kolong Cakung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:59:00",
+    "date": "06 Jun 2025",
+    "from": "Kampung Rambutan",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "17:10:00",
+    "date": "24 Jun 2025",
+    "from": "Slipi",
+    "to": "Gatot Subroto",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:48:00",
+    "date": "08 Jun 2025",
+    "from": "Pulogadung",
+    "to": "Cempaka Putih",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:05:00",
+    "date": "23 May 2025",
+    "from": "Biak",
+    "to": "Tomang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:28:00",
+    "date": "24 May 2025",
+    "from": "Koja",
+    "to": "Cilincing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:27:00",
+    "date": "12 Jun 2025",
+    "from": "Pancoran",
+    "to": "Semanggi",
+    "status": "Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:17:00",
+    "date": "15 Jun 2025",
+    "from": "Matraman",
+    "to": "Salemba",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:02:00",
+    "date": "28 May 2025",
+    "from": "Cengkareng",
+    "to": "Daan Mogot",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:37:00",
+    "date": "15 Jun 2025",
+    "from": "Meruya",
+    "to": "Ruas Tol Jakarta-Tangerang",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:52:00",
+    "date": "20 May 2025",
+    "from": "Caglak",
+    "to": "Pasar Rebo",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:28:00",
+    "date": "21 Jun 2025",
+    "from": "Rindam",
+    "to": "Pasar Rebo",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:00:00",
+    "date": "20 Jun 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:30:00",
+    "date": "17 Jun 2025",
+    "from": "Emporium Pluit",
+    "to": "Muara Angke",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:01:00",
+    "date": "03 Jun 2025",
+    "from": "Kelapa Gading",
+    "to": "Moi",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:26:00",
+    "date": "07 Jun 2025",
+    "from": "Off Ramp Cipete",
+    "to": "Lebak Bulus",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:22:00",
+    "date": "03 Jun 2025",
+    "from": "Halim Baru",
+    "to": "Cawang",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:51:00",
+    "date": "12 Jun 2025",
+    "from": "Blok M",
+    "to": "Prapanca Raya",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "15:16:00",
+    "date": "12 Jun 2025",
+    "from": "Mh Thamrin",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:26:00",
+    "date": "05 Jun 2025",
+    "from": "Tamini Square",
+    "to": "Pinang Ranti",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:11:00",
+    "date": "28 May 2025",
+    "from": "Dewi Sartika",
+    "to": "Cawang Kompor",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "08:56:00",
+    "date": "21 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Pesing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:24:00",
+    "date": "17 Jun 2025",
+    "from": "Pesing",
+    "to": "Cengkareng",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:04:00",
+    "date": "29 May 2025",
+    "from": "Salemba Raya",
+    "to": "Senen",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:26:00",
+    "date": "05 Jun 2025",
+    "from": "Pinang Ranti",
+    "to": "Tamini Square",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "12:30:00",
+    "date": "25 May 2025",
+    "from": "Monas",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": "Hujan"
+  },
+  {
+    "time": "21:55:00",
+    "date": "17 May 2025",
+    "from": "Pancoran",
+    "to": "Ruas Tol Dalam Kota",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "09:06:00",
+    "date": "09 Jun 2025",
+    "from": "Suryopranoto",
+    "to": "Jembatan Lima",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:24:00",
+    "date": "24 May 2025",
+    "from": "Salemba",
+    "to": "Simpang Lima Senen",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "06:24:00",
+    "date": "17 Jun 2025",
+    "from": "Cengkareng",
+    "to": "Pesing",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "20:28:00",
+    "date": "29 May 2025",
+    "from": "Ruas Tol Dalam Kota",
+    "to": "Pancoran",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:15:00",
+    "date": "06 Jun 2025",
+    "from": "Slipi",
+    "to": "Semanggi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:45:00",
+    "date": "31 May 2025",
+    "from": "Slipi",
+    "to": "Gatot Subroto",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "18:53:00",
+    "date": "24 Jun 2025",
+    "from": "Pasar Rebo",
+    "to": "Cijantung",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:55:00",
+    "date": "15 May 2025",
+    "from": "Harmoni",
+    "to": "Patung Kuda",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "11:17:00",
+    "date": "15 Jun 2025",
+    "from": "Mh Thamrin",
+    "to": "Patung Kuda",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "07:31:00",
+    "date": "15 May 2025",
+    "from": "Kolong Cakung",
+    "to": "Bekasi",
+    "status": "Ramai Cenderung Padat",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:07:00",
+    "date": "18 Jun 2025",
+    "from": "Kuningan",
+    "to": "Rasuna Said",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "13:51:00",
+    "date": "12 Jun 2025",
+    "from": "Prapanca Raya",
+    "to": "Blok M",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "10:15:00",
+    "date": "06 Jun 2025",
+    "from": "Pancoran",
+    "to": "Semanggi",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "16:30:00",
+    "date": "19 Jun 2025",
+    "from": "Semanggi",
+    "to": "Cawang",
+    "status": "Ramai Lancar",
+    "obstacle": null,
+    "weather": null
+  },
+  {
+    "time": "14:25:00",
+    "date": "01 Jun 2025",
+    "from": "Hotel Indonesia",
+    "to": "Dukuh Atas",
+    "status": "Lancar",
+    "obstacle": null,
+    "weather": null
+  }
+]
